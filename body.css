@@ -1,0 +1,27 @@
+.body {
+    align-items: center;
+    text-align: center;
+    border: 2px solid b;
+    width: 200px;
+    height: 180px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #154c79;
+}
+
+.input {
+    margin: 10px;
+}
+
+.button {
+    margin-top: 10px;
+}
+
+.label {
+    color: #eeeee4;
+    margin-top: 10px;
+}
+
+.text {
+    color: #154c79;
+}
